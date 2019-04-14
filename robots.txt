@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://losihepak.aquilaos.com/sitemap.xml
